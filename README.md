@@ -35,8 +35,8 @@
 
 <h3>✅ Checkout My Projects</h3>
 <ul>
-  <li>Car Rental App</li>
-  <li>BPPS App</li>
+  <li><a href="https://github.com/yamuna-aggala/car_rental_app_yamuna_2105.git">Car Rental App</a></li>
+  <li><a href="https://github.com/vivek-1206/bppsapp.git">BPPS App</a></li>
 </ul>
 
 ---
@@ -74,7 +74,7 @@
 ---
 
 <h2>🚀 Let's Connect!</h2>
-<p> 📧 <a href="mailto:aggalayamuna46@gmail.com">aggalayamuna46@gmail.com</a></p>
+<p>📧 <a href="mailto:aggalayamuna46@gmail.com">aggalayamuna46@gmail.com</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
