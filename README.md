@@ -36,10 +36,10 @@ Mobile developer specializing in Flutter, Dart, and Firebase. Passionate about c
 
 Hi, I'm Yamuna, a passionate Flutter Developer dedicated to crafting smooth and intuitive digital payment experiences. 🚀
 
-✨ About the Project
+**✨ About the Project**
 Bharath Bill Payment System is a full-fledged payment platform meticulously designed to replicate PhonePe’s UI/UX, ensuring a fast, secure, and user-friendly bill payment experience.
 
-🔥 Key Features
+🔥** Key Features**
 ✅ Modern UI/UX – Clean, intuitive, and user-centric interface 🎨
 ✅ Multiple Payment Methods – UPI, Debit/Credit Cards, and Wallets 💳
 ✅ Real-Time Transaction Tracking – Instant updates and notifications 📊
@@ -49,10 +49,10 @@ Bharath Bill Payment System is a full-fledged payment platform meticulously desi
 
 This project showcases my expertise in Flutter, Firebase, API Integration, and UI/UX Design.
 
-📚 Project Overview
+📚 **Project Overview**
 Bharath Bill Payment System is a full-fledged Flutter-based UI, meticulously crafted to replicate PhonePe’s intuitive and engaging payment experience. Designed for seamless transactions, the app provides a user-friendly interface with real-time processing, ensuring fast, secure, and efficient bill payments.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 🔹 Framework – Flutter 🚀
 🔹 Language – Dart 💎
 🔹 Backend – Firebase 🔥
