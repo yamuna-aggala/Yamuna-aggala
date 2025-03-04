@@ -85,7 +85,7 @@
 <h2>👨‍💻 Work Experience</h2>
 <ul>
   <li>💼 <strong>Software Engineer</strong> – Biztron Softech, Madhapur (Current Role) 🚀</li>
-  <li>💻 <strong>Associate</strong> – LTIMindtree (2021 - 2023) 
+  <li>💻 <strong>Associate Engineer</strong> – LTIMindtree (2021 - 2023) 
     <ul>
       <li>Worked in the domain of web development</li>
     </ul>
