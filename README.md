@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Yamuna Aggala</h1>
 <h3 align="center">🚀 Flutter Designer & Mobile Developer</h3>
-<p align="center">Mobile developer specializing in <strong>Flutter, Dart, and Firebase</strong>. Passionate about crafting intuitive UI/UX and delivering high-performance cross-platform applications.</p>
+<p align="center">
+  Mobile developer specializing in <strong>Flutter, Dart, and Firebase</strong>. Passionate about crafting intuitive UI/UX and delivering high-performance cross-platform applications.
+</p>
 
 ---
 
@@ -45,7 +47,10 @@
 <p>💜 <strong>Bharath Bill Payment System</strong> 🔹 Inspired by PhonePe | Secure & Seamless Bill Payments</p>
 
 <h3>✨ About the Project</h3>
-<p>Bharath Bill Payment System is a full-fledged payment platform meticulously designed to replicate <strong>PhonePe’s UI/UX</strong>, ensuring a <strong>fast, secure, and user-friendly</strong> bill payment experience.</p>
+<p>
+  Bharath Bill Payment System is a full-fledged payment platform meticulously designed to replicate 
+  <strong>PhonePe’s UI/UX</strong>, ensuring a <strong>fast, secure, and user-friendly</strong> bill payment experience.
+</p>
 
 <h3>🔥 Key Features</h3>
 <ul>
@@ -58,7 +63,11 @@
 </ul>
 
 <h3>📚 Project Overview</h3>
-<p>The <strong>Bharath Bill Payment System</strong> is a full-fledged <strong>Flutter-based UI</strong>, meticulously crafted to replicate <strong>PhonePe’s intuitive and engaging payment experience</strong>. Designed for <strong>seamless transactions</strong>, the app provides a <strong>user-friendly interface with real-time processing</strong>, ensuring <strong>fast, secure, and efficient bill payments</strong>.</p>
+<p>
+  The <strong>Bharath Bill Payment System</strong> is a full-fledged <strong>Flutter-based UI</strong>, meticulously crafted to replicate 
+  <strong>PhonePe’s intuitive and engaging payment experience</strong>. Designed for <strong>seamless transactions</strong>, the app provides a 
+  <strong>user-friendly interface with real-time processing</strong>, ensuring <strong>fast, secure, and efficient bill payments</strong>.
+</p>
 
 <h3>🛠️ Tech Stack</h3>
 <ul>
@@ -69,6 +78,27 @@
   <li>⚡ <strong>Database</strong> – Firestore</li>
   <li>⚙️ <strong>State Management</strong> – Provider for efficient app performance</li>
   <li>🌐 <strong>API Integration</strong> – REST APIs for real-time transaction processing</li>
+</ul>
+
+---
+
+<h2>👨‍💻 Work Experience</h2>
+<ul>
+  <li>💼 <strong>Software Engineer</strong> – Biztron Softech, Madhapur (Current Role) 🚀</li>
+  <li>💻 <strong>Associate</strong> – LTIMindtree (2021 - 2023) 
+    <ul>
+      <li>Worked in the domain of web development</li>
+    </ul>
+  </li>
+</ul>
+
+---
+
+<h2>🎓 Education</h2>
+<ul>
+  <li>🎓 <strong>B.Sc. Computer Science</strong> – Avanthi College</li>
+  <li>🏫 <strong>Intermediate (MPC)</strong> – New Chaitanya Junior College</li>
+  <li>🏫 <strong>Schooling</strong> – Blue Birds High School</li>
 </ul>
 
 ---
@@ -86,5 +116,9 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamuna-aggala&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yamuna-aggala&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamuna-aggala&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yamuna-aggala&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
