@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 🤝 I’m looking for help with **BPPS**
+- 🤝 I’m looking for help with **BBPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yamuna-aggala/Yamuna-aggala.git](https://github.com/yamuna-aggala/Yamuna-aggala.git)
 
