@@ -74,7 +74,7 @@
 ---
 
 <h2>🚀 Let's Connect!</h2>
-<p>💼 <a href="#">LinkedIn</a> | 📧 <a href="#">Email</a></p>
+<p> 📧 <a href="mailto:aggalayamuna46@gmail.com">aggalayamuna46@gmail.com</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
